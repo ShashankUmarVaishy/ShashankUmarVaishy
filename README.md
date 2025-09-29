@@ -104,7 +104,14 @@ Here are some projects I’ve worked on (replace with your own):
 ## 🤝 Connect with Me  
 
 <p align="center">
-  <a href="www.linkedin.com/in/shashank-umar-vaishy-aa4301289"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:umarshashank@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[YOUR_PORTFOLIO_URL](https://portfolio-b2c3.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-343434?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shashank-umar-vaishy-aa4301289" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:umarshashank@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://portfolio-b2c3.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-343434?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
+
