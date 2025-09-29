@@ -1,78 +1,110 @@
-<p align="center">
-<!-- <img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGN2aW0zNXU1bThnZGR6cGRwZG1qOTlpeXl6c25zdXFtbHZydXBnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6iAhpc/giphy.gif" alt="Coding Banner" width="80%"> -->
-</p>
+<div align="center">
+  <!-- Banner (optional, you can uncomment if you want to add a coding gif/banner) --> 
+  <!-- <img src="https://media.giphy.com/media/qgQUggACpCjo6iAhpc/giphy.gif" alt="Coding Banner" width="80%"> -->
 
-<div id="header" align="center">
-<h1>
-Hi there, I'm Shashank Umar Vaishy
-<!-- <img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
-</h1>
-<p>A passionate Full-Stack Developer and Cloud Enthusiast from India, dedicated to building robust and scalable web applications.</p>
+  <h1>Hi👋 there, I'm Shashank Umar Vaishy </h1>
+  <p>
+    A passionate <strong>Full-Stack Developer</strong> and <strong>Cloud Enthusiast</strong> from India, 
+    dedicated to building robust and scalable web applications.
+  </p>
 </div>
 
-👨‍💻 About Me
-🔭 I’m currently building innovative projects and exploring new technologies.
+---
 
-🌱 I’m constantly learning about Cloud Native technologies and System Design.
+## 👨‍💻 About Me  
+- 🔭 Currently building innovative projects and exploring new technologies.  
+- 🌱 Constantly learning about Cloud Native technologies and devops.  
+- 👯 Looking to collaborate on impactful projects.  
+- 💬 Ask me about React, Next.js, Node.js, and AWS.  
+- 📫 Reach me at: **umarshashank@gmail.com**  
+- 😄 Fun fact: I can spend hours debugging just for the thrill of that one "Aha!" moment.  
 
-👯 I’m looking to collaborate on impactful open-source projects.
+---
 
-💬 Ask me about React, Next.js, Node.js, and AWS.
+## 🛠️ My Tech Stack  
 
-📫 How to reach me: umarshashank@gmail.com (Replace with your email)
+**Frontend**  
 
-😄 Fun fact: I can spend hours debugging just for the thrill of that one "Aha!" moment.
-
-🛠️ My Tech Stack
-Here are some of the technologies I'm proficient in.
-
-
-<strong>Frontend:</strong>
 ![React](https://img.shields.io/badge/Framework-React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-3178C6?logo=typescript&logoColor=white)
-
 ![HTML5](https://img.shields.io/badge/Markup-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/Style-CSS3-1572B6?logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Style-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/State-Redux-764ABC?logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/State-Zustand-443E38?logo=zustand&logoColor=white)
 
 
+**Backend**  
+
+![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Framework-Express.js-000000?logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white)
+
+**Databases**  
+
+![MongoDB](https://img.shields.io/badge/DB-MongoDB-47A248?logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/DB-MySQL-4479A1?logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-4169E1?logo=postgresql&logoColor=white) 
+
+**Cloud & DevOps**  
+
+![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/VCS-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Repo-GitHub-181717?logo=github&logoColor=white)
+
+---
+
+## 🚀 Projects  
+
+Here are some projects I’ve worked on (replace with your own):  
+
+- **Campus Connect** – A campus management app built with React Native, Flask, Express, and PostgreSQL.  
+- **IoT Health Monitoring Glove** – Wearable device with sensors, real-time data, and React Native app integration.  
+- **Grievance Redressal App** – Mobile app for reporting and tracking grievances with comments and notifications.  
+
+---
+
+## 💼 Experience  
+
+- **Research Intern** @ *IIT Guwahati* (June 2025 - July 2025)  
+  - Developed full-stack features using React-Native, Node.js, and MongoDB.  
+  - Developed a IOT + Mobile app solution for patients with movement and verbal difficulty.  
 
 
+---
 
+## 🏆 Achievements  
 
+- 🥇 Completed **50% of Striver’s A2Z DSA Sheet** 🎯  
+- 🎓 1st runner-up in App Development competition in NIT Meghalaya (2nd year). 
+- 📜 2nd runner-up in Intra-NIT annual hackathon.  
 
+---
 
+## 📊 My GitHub Stats  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShashankUmarVaishy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shashank's GitHub Stats" />
+ </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankUmarVaishy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ShashankUmarVaishy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShashankUmarVaishy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
+---
 
+## 🤝 Connect with Me  
 
-
-
-
-
-
-
-
-![Java](https://img.shields.io/badge/Code-Java-blue?logo=java&logoColor=white)
-![React](https://img.shields.io/badge/Framework-React-blue?logo=react)
-
-📊 My GitHub Stats
-![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShashankUmarVaishy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankUmarVaishy&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=ShashankUmarVaishy&theme=tokyonight&hide_border=true)
-![Trophies](https://github-profile-trophy.vercel.app/?username=ShashankUmarVaishy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-
-🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-343434?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-
-
+<p align="center">
+  <a href="www.linkedin.com/in/shashank-umar-vaishy-aa4301289"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:umarshashank@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[YOUR_PORTFOLIO_URL](https://portfolio-b2c3.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-343434?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
