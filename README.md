@@ -1,11 +1,11 @@
 <p align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGN2aW0zNXU1bThnZGR6cGRwZG1qOTlpeXl6c25zdXFtbHZydXBnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6iAhpc/giphy.gif" alt="Coding Banner" width="80%">
+<!-- <img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGN2aW0zNXU1bThnZGR6cGRwZG1qOTlpeXl6c25zdXFtbHZydXBnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6iAhpc/giphy.gif" alt="Coding Banner" width="80%"> -->
 </p>
 
 <div id="header" align="center">
 <h1>
 Hi there, I'm Shashank Umar Vaishy
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<!-- <img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
 </h1>
 <p>A passionate Full-Stack Developer and Cloud Enthusiast from India, dedicated to building robust and scalable web applications.</p>
 </div>
@@ -19,7 +19,7 @@ Hi there, I'm Shashank Umar Vaishy
 
 💬 Ask me about React, Next.js, Node.js, and AWS.
 
-📫 How to reach me: shashankumarvaishy@example.com (Replace with your email)
+📫 How to reach me: umarshashank@gmail.com (Replace with your email)
 
 😄 Fun fact: I can spend hours debugging just for the thrill of that one "Aha!" moment.
 
@@ -60,7 +60,6 @@ Here are some of the technologies I'm proficient in.
 
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://www.google.com/search?q=https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
 
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://www.google.com/search?q=https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
 
 </p>
 
@@ -86,13 +85,13 @@ Here are some of the technologies I'm proficient in.
 
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://www.google.com/search?q=https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
 
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://www.google.com/search?q=https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://www.google.com/search?q=https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://www.google.com/search?q=https://profilinator.rishav.dev/skills-assets/github.png" alt="Github" height="50"></a>
 
 </p>
+![Java](https://img.shields.io/badge/Code-Java-blue?logo=java&logoColor=white)
+![React](https://img.shields.io/badge/Framework-React-blue?logo=react)
 
 📊 My GitHub Stats
 <p align="center">
