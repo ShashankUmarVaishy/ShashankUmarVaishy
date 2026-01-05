@@ -1,12 +1,64 @@
 <div align="center">
   <!-- Banner (optional, you can uncomment if you want to add a coding gif/banner) --> 
   <!-- <img src="https://media.giphy.com/media/qgQUggACpCjo6iAhpc/giphy.gif" alt="Coding Banner" width="80%"> -->
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi+I'm+Shashank+umar+Vaishy;Machine+Learning+%7C+Deep+Learning+%7C+AI;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
+  <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi+I'm+Shashank+Umar+Vaishy;Full+Stack+Developer+%7C+Problem+Solver;Always+Learning+New+Things)](https://git.io/typing-svg)
   <p>
     A passionate <strong>Full-Stack Developer</strong> and <strong>Cloud Enthusiast</strong> from India, 
     dedicated to building robust and scalable web applications.
   </p>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="cool animation" width="800" /> -->
+  <!-- Typing Header -->
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img 
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=400&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Shashank+Umar+Vaishy;Full+Stack+Developer+%7C+Problem+Solver;Building+in+the+Dark+%F0%9F%8C%99;Always+Learning+New+Things" 
+        alt="Typing SVG" 
+      />
+    </a>
+  </p>
+  
+  ---
+
+<table width="100%">
+  <tr>\
+    <td align="left" width="70%">
+      <p style="color:#c9d1d9; font-size:15px; line-height:1.6;">
+        🚀 A passionate <strong>Full-Stack Developer</strong> & <strong>Cloud Enthusiast</strong> from India<br/>
+        💡 Building <strong>scalable</strong>, <strong>efficient</strong>, and <strong>impactful</strong> web applications
+      </p>
+    </td>
+    <td align="right" width="30%" >
+      <a 
+        href="https://portfolio-b2c3.vercel.app"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <img 
+          src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF"
+          alt="Portfolio"
+        />
+      </a>
+    </td>
+  </tr>
+  
+</table>
+
+
+  
+  
+  ---
+  
+  <!-- Coding Animation -->
+  <p align="center">
+    <img 
+      src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+      alt="Coding in dark mode" 
+      width="800"
+    />
+  </p>
+
+ 
+
 </div>
 
 ---
@@ -114,4 +166,8 @@ Here are some projects I’ve worked on (replace with your own):
     <img src="https://img.shields.io/badge/Portfolio-343434?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
+  <div align="center">
+    <p>Thanks for Visiting</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=100%&section=footer"/>
+</div>
 
