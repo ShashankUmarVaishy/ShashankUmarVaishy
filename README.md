@@ -2,7 +2,7 @@
   <!-- Banner (optional, you can uncomment if you want to add a coding gif/banner) --> 
   <!-- <img src="https://media.giphy.com/media/qgQUggACpCjo6iAhpc/giphy.gif" alt="Coding Banner" width="80%"> -->
 
-  <h1>Hi👋 there, I'm Shashank Umar Vaishy </h1>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi+I'm+Shashank+umar+Vaishy;Machine+Learning+%7C+Deep+Learning+%7C+AI;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
   <p>
     A passionate <strong>Full-Stack Developer</strong> and <strong>Cloud Enthusiast</strong> from India, 
     dedicated to building robust and scalable web applications.
