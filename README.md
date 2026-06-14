@@ -119,6 +119,10 @@ Here are some projects I’ve worked on (replace with your own):
 
 ## 💼 Experience  
 
+- **Advanced Application Engineer Intern** @ *Accenture* (June 2026 - current)  
+  - Learning Gen-AI fluency, Agentic-AI and Cybersesurity
+
+
 - **Research Intern** @ *IIT Guwahati* (June 2025 - July 2025)  
   - Developed full-stack features using React-Native, Node.js, and MongoDB.  
   - Developed a IOT + Mobile app solution for patients with movement and verbal difficulty.  
